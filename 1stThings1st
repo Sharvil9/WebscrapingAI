@@ -1,0 +1,19 @@
+pip install nltk
+pip install random2
+pip install strings
+pip install beautifulsoup4
+pip install urllib3
+pip install regex
+pip install scikit-learn:
+     if still getting error, then paste these in a seperate Juyter environment:
+     ""import sys
+       !{sys.executable} -m pip install scikit-learn""
+
+
+C:\Users\user\AppData\Local\Programs\Python\Python313\python.exe -m pip install --upgrade pip
+
+C:\Users\user\AppData\Local\Programs\Python\Python313\python.exe -m ipykernel install --user --name python313 --display-name "Python 3.13"
+
+Restart Jupyter Notebook (jupyter notebook in CMD).
+Go to Kernel > Change Kernel and select Python 3.13.
+
